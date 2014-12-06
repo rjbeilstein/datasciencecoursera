@@ -4,7 +4,7 @@ datasciencecoursera
 Repository for Johns Hopkins Data Science Specialization.  Originally created as part of the Course project for "The Data
 Scientist's Toolbox".
 
-Copyright (C) 2014 Robert J. Beilstein
+Contents Copyright (C) 2014 Robert J. Beilstein
   
  This program is free software: you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 
